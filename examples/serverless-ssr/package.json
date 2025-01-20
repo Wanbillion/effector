@@ -12,7 +12,7 @@
     "predeploy": "yarn build"
   },
   "dependencies": {
-    "cross-fetch": "^3.0.4",
+    "cross-fetch": "^3.2.0",
     "effector": "^20.13.5",
     "effector-react": "^20.6.3",
     "history": "^4.10.1",
